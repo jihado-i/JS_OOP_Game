@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f0eaea;
+}
+.box{
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 25px;
+    margin: 20px auto;
+}
+.progress{
+    width: 90%;
+    height: 6vh;
+    background-color: #cccccc;
+    border-radius: 20px;
+}
+.progress span{
+    width: 100%;
+    display: block;
+    height: 6vh;
+    margin-top: 10px;
+    background-color: green;
+    transition: 0.5s;
+    border-radius: 20px;
+}
+.person{
+    width: 40%;
+    padding: 0 10px;
+    text-align: center;
+    background-color: white;
+    border-bottom: 2px solid black;
+}
+.person img{
+    width: 80%;
+    height: 40vh;    
+    display: block;
+    margin: 10px auto;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 45%;
+    height: 6vh;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.5s;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: rgb(65, 65, 65);
+}
+
+#appendWinner {
+    width: 94%;
+    height: 5vh;
+    line-height: 5vh;
+}
+#appendWinner marquee {
+    width: 100%;
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: cursive;
+}
