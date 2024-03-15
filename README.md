@@ -30,7 +30,7 @@ The main functionality of the game is controlled through JavaScript. Here's a br
 
 ## Live Preview
 
-Play the game directly in your browser! [Click here for the live preview](#) (Add the link to your live demo here).
+Play the game directly in your browser! [Click here for the live preview](#) (https://jihado-i.github.io/JS_OOP_Game/).
 
 
 Enjoy the game!
