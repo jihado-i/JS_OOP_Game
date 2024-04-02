@@ -2,6 +2,8 @@
 
 This project is a simple JavaScript game developed to improve JavaScript and Object-Oriented Programming (OOP) skills. In this game, two characters, John Cena and The Undertacker, battle against each other until one of them's health reaches zero.
 
+![Uploading image.png…]()
+
 ## How to Play
 
 - Click on the "Attack" button to make the selected character attack the opponent.
