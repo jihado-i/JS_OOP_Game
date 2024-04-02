@@ -2,7 +2,7 @@
 
 This project is a simple JavaScript game developed to improve JavaScript and Object-Oriented Programming (OOP) skills. In this game, two characters, John Cena and The Undertacker, battle against each other until one of them's health reaches zero.
 
-![Uploading image.png…]()
+![image](https://github.com/jihado-i/JS_OOP_Game/assets/81075046/a99153e8-7b87-4280-987a-d0331ff244a0)
 
 ## How to Play
 
