@@ -10,6 +10,7 @@ This project is a simple JavaScript game developed to improve JavaScript and Obj
 - Click on the "Health" button to increase the health of the selected character.
 - The game ends when one of the character's health reaches zero.
 
+
 ## Features
 
 - Object-Oriented Programming (OOP) principles applied for character creation and interaction.
